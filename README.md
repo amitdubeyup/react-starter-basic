@@ -1,86 +1,25 @@
-# react-starter-basic
+# React Starter Basic
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-## 🚀 Tech Stack
-
+## 📝 Description
 - Node.js
 
-## ✨ Features
+## 🚀 Technology Stack
+- **Primary**: Node.js
 
-- Modern and scalable architecture
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/amitdubeyup/react-starter-basic.git
-cd react-starter-basic
-
-# Install dependencies
-npm install
-```
-
-## ⚙️ Configuration
-
-Create a `.env` file in the root directory:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file with your configuration values.
-
-## 🚀 Usage
-
-```bash
-# Production mode
-npm start
-
-# Build for production
-npm run build
-
-# Run tests
-npm test
-```
-
-## 📜 Available Scripts
-
-- `npm run build` - cd packages/react-scripts && node bin/react-scripts.js build
-- `npm run changelog` - lerna-changelog
-- `npm run create-react-app` - node tasks/cra.js
-- `npm run e2e` - tasks/e2e-simple.sh
-- `npm run e2e:docker` - tasks/local-test.sh
-- `npm run postinstall` - cd packages/react-error-overlay/ && yarn build:prod
-- `npm run publish` - tasks/publish.sh
-- `npm run start` - cd packages/react-scripts && node bin/react-scripts.js start
-- `npm run screencast` - node ./tasks/screencast.js
-- `npm run screencast:error` - svg-term --cast jyu19xGl88FQ3poMY8Hbmfw8y --out screencast-error.svg --window --at 12000 --no-cursor
-- `npm run test` - cd packages/react-scripts && node bin/react-scripts.js test
-- `npm run format` - prettier --trailing-comma es5 --single-quote --write 'packages/*/*.js' 'packages/*/!(node_modules)/**/*.js'
-- `npm run compile:lockfile` - node tasks/compile-lockfile.js
-
-## 📁 Project Structure
-
-```
-react-starter-basic/
-├── package.json
-├── .env.example
-├── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:amitdubeyup/react-starter-basic.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd react-starter-basic
+   ```
 
 ## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Amit Dubey**
-
-- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
+--- 
+*Generated and maintained as part of the digital portfolio synchronization.*
