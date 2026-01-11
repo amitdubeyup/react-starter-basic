@@ -1,8 +1,8 @@
-# create-react-app
+# react-starter-basic
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-Create React apps with no build configuration.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 🚀 Tech Stack
 
@@ -16,8 +16,8 @@ Create React apps with no build configuration.
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/create-react-app.git
-cd create-react-app
+git clone https://github.com/amitdubeyup/react-starter-basic.git
+cd react-starter-basic
 
 # Install dependencies
 npm install
@@ -65,7 +65,7 @@ npm test
 ## 📁 Project Structure
 
 ```
-create-react-app/
+react-starter-basic/
 ├── package.json
 ├── .env.example
 ├── README.md
