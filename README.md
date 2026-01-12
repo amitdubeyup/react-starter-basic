@@ -12,9 +12,6 @@ Reference implementation and boilerplate code for Node.js projects, demonstratin
 ## 🛠️ Tech Stack
 *   **Node.js**
 
-## 👨‍💻 Lead Maintainer
-[@amitdubeyup](https://github.com/amitdubeyup)
-
 ## 📦 Installation
 
 1.  **Clone the repository**:
@@ -29,6 +26,9 @@ Reference implementation and boilerplate code for Node.js projects, demonstratin
     ```bash
     npm start    # or python app.py
     ```
+
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
 ## 📄 License
 This project is licensed under the **MIT License**.
